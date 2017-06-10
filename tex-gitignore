@@ -1,0 +1,17 @@
+*~
+*DS_Store
+*.aux
+*.bak
+*.bbl
+*.blg
+*.dvi
+*.lof
+*.log
+*.nav
+*.out
+*.pdf
+*.ps
+*.snm
+*.synctex.gz
+*.toc
+*.vrb

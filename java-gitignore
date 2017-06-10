@@ -1,0 +1,16 @@
+*.class
+*~
+*DS_Store
+nbproject
+*.out
+*.mf
+*.iml
+.classpath
+.project
+bin
+.settings
+sootOutput
+*.swp
+build.xml
+nbbuild.xml
+manifest.mf
